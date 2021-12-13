@@ -1,4 +1,4 @@
-body {background-image: url("/assets/images.jpg");}
+body {background-image: url("./assets/images.jpg");}
 
 h1{
     margin-top: -2rem;
